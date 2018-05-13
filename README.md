@@ -1,3 +1,42 @@
 # notes
 notes
 https://github.com/aymericdamien/TopDeepLearning
+
+
+https://distill.pub/2016/deconv-checkerboard/
+https://github.com/matterport/Mask_RCNN
+https://github.com/topics/object-detection
+https://github.com/topics/keras
+https://github.com/ufoym/deepo
+https://github.com/philipperemy?tab=repositories
+https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/
+https://github.com/farizrahman4u/seq2seq
+
+https://github.com/deepmipt/deep-nlp-seminars.git
+
+https://github.com/jalajthanaki/Amazon_review_summarization.git
+https://github.com/commonsense/conceptnet-numberbatch.git
+
+
+
+https://github.com/icoxfog417/awesome-text-summarization
+
+https://github.com/bicepjai/Deep-Survey-Text-Classification.git
+
+https://medium.com/datalogue/attention-in-keras-1892773a4f22
+https://github.com/datalogue/keras-attention.git
+
+
+https://github.com/facebookresearch/fastText/#text-classification
+https://fasttext.cc/docs/en/supervised-tutorial.html
+
+
+
+http://outlace.com/miniga.html
+ http://iamtrask.github.io/2015/07/12/basic-python-network/ 
+http://stattrek.com/probability-distributions/chi-square.aspx?Tutorial=AP
+http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+
+
+projects in NLP
+http://cs224d.stanford.edu/reports.html

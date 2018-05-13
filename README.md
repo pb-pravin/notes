@@ -1,6 +1,21 @@
 # notes
 
 https://github.com/icoxfog417/awesome-text-summarization
+https://github.com/facebookarchive/NAMAS.git
+
+https://distill.pub/2016/augmented-rnns/
+https://radimrehurek.com/gensim/models/word2vec.html
+https://en.wikipedia.org/wiki/FastText
+
+https://github.com/chakki-works/sumeval.git
+https://github.com/topics/rouge
+
+https://github.com/topics/self-driving-car
+
+
+
+https://github.com/AtsushiSakai/PythonRobotics.git
+
 
 
 notes

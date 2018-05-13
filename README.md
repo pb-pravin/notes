@@ -1,6 +1,17 @@
 # notes
+
+https://github.com/icoxfog417/awesome-text-summarization
+
+
 notes
 https://github.com/aymericdamien/TopDeepLearning
+
+http://nbviewer.jupyter.org/github/ivanslapnicar/GIAN-Applied-NLA-Course/tree/master/src/Module%20B%20-%20Eigenvalue%20and%20Singular%20Value%20Decompositions/
+
+https://github.com/icoxfog417/awesome-text-summarization
+
+uda cars
+https://github.com/baocongchen?tab=repositories
 
 
 https://distill.pub/2016/deconv-checkerboard/

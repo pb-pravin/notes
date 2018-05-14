@@ -1,5 +1,11 @@
 # notes
 
+text summarization
+https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews/blob/master/summarize_reviews.ipynb
+https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/contrib_seq2seq
+
+
+
 https://github.com/icoxfog417/awesome-text-summarization
 https://github.com/facebookarchive/NAMAS.git
 

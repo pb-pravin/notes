@@ -5,7 +5,6 @@ https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews/blob/master/s
 https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/contrib_seq2seq
 
 
-
 https://github.com/icoxfog417/awesome-text-summarization
 https://github.com/facebookarchive/NAMAS.git
 
@@ -35,6 +34,7 @@ uda cars
 https://github.com/baocongchen?tab=repositories
 
 
+https://github.com/j-min/tensorflow-exercises.git
 https://distill.pub/2016/deconv-checkerboard/
 https://github.com/matterport/Mask_RCNN
 https://github.com/topics/object-detection

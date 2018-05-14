@@ -5,7 +5,7 @@ http://lstm.seas.harvard.edu/
 http://lstm.seas.harvard.edu/client/index.html
 https://vimeo.com/266560241
 http://seq2seq-vis.io
- 
+docker run --rm -it -v "${PWD}/0316-fakedates:/data" -p "8080:8080" sgratzl/seq2seq-vis
 
 text summarization
 https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews/blob/master/summarize_reviews.ipynb

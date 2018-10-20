@@ -10,8 +10,14 @@ https://goethereumbook.org/GLOSSARY.html#hd-wallet
 
 
 https://github.com/trufflesuite/ganache-cli
+https://medium.com/coinmonks/enterprise-blockchain-are-we-there-yet-7090b3841b11
+https://bitcoin.com.au/the-5-most-promising-blockchain-projects-of-2018/
+https://hackernoon.com/6-interesting-blockchain-projects-8c315364ff7f
 
-
+https://www.shareable.net/blog/10-blockchain-projects-to-keep-an-eye-on
+https://www.postscapes.com/blockchains-and-the-internet-of-things/#companies
+https://www.cbinsights.com/research/industries-disrupted-blockchain/
+https://www.fool.com/investing/2018/04/18/the-3-most-ambitious-blockchain-projects.aspx
 
 npm install -g truffle
 ganache-cli

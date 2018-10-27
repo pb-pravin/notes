@@ -24,9 +24,13 @@ Cosmos  Internet of Blockchains: allow blockchains to scale and interoperate wit
 EOS Litecoin Brave Dash Dogecoin Monero Graphene BitShare Brave EOS Litecoin Dash
 Agavon ChainDigit Kodebox MetaX Monax Industries Omnitude ScanTrust Sovrin UTRUST 
 Basel DTCC B-Hive Coinspeaker
+Apache Kafka in Hyperledger Fabric, PoET in Hyperledger Sawtooth, RBFT in Hyperledger Indy, 
+Tendermint in Hyperledger Burrow, and Yet Another Consensus (YAC) in Hyperledger Iroha
+https://lightning.network/
 
 
 #docs
+https://www.hyperledger.org/community
 chain code
 https://dashboard.seq.com/docs/sdks 
 https://www.corda.net/ 
@@ -55,6 +59,8 @@ https://gomedici.com/22-companies-leveraging-blockchain-for-identity-management-
 https://angel.co/blockchains
 https://angel.co/companies?keywords[]=ai&keywords[]=blockchain
 https://coin.dance/resources
+https://www.w3.org/2017/vc/WG/
+https://w3c-ccg.github.io/did-spec/
 
 #blogs
 http://hackingdistributed.com/2016/08/04/byzcoin/
@@ -73,6 +79,8 @@ https://www.khanacademy.org/computing
 
 #chats
 https://gitter.im/CodeChain-io/codechain
+https://www.hyperledger.org/community
+
 
 #hyperledger
 https://chat.hyperledger.org/channel/iroha-smartcontracts

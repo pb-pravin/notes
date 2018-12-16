@@ -1,3 +1,25 @@
 https://github.com/facebookresearch/pytext
+http://ruder.io/deep-learning-nlp-best-practices/
+http://ruder.io/nlp-imagenet/
+http://www.lix.polytechnique.fr/Labo/Antoine.Tixier/dl_nlp_notes.pdf
 
 
+Attention is All you Need - NIPS Proceedings
+
+word embedding attention
+Word Attention for Sequence to Sequence Text Understanding
+Joint Embedding of Words and Labels for Text Classification - Duke ECE
+Better Word Representations with Variable Attention
+ sentence embedding by introducing self-attention
+ 
+https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a
+Reinforced Self-Attention Network:
+a Hybrid of Hard and Soft Attention for Sequence Modeling
+Supervised Learning of Universal Sentence Representations from
+Natural Language Inference Data
+
+
+Unsupervised nlp
+
+
+http://stp.lingfil.uu.se/~santinim/ml/UnsupervisedLearningMagnusRosell_Slides.pdf

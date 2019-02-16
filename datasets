@@ -1,0 +1,271 @@
+https://github.com/alexandres/lexvec#oov
+ 
+
+
+
+#############################################
+https://catalog.data.gov/dataset
+http://archive.ics.uci.edu/ml/datasets.html
+https://github.com/niderhoff/nlp-datasets
+http://ana.cachopo.org/datasets-for-single-label-text-categorization
+https://machinelearningmastery.com/datasets-natural-language-processing/
+https://gengo.ai/datasets/10-best-legal-datasets-for-machine-learning/
+https://gengo.ai/datasets/
+https://data.fivethirtyeight.com/
+https://gengo.ai/datasets/18-websites-to-download-free-datasets-for-machine-learning-projects/
+http://socialcomputing.asu.edu/pages/datasets
+#############################################
+GoogleNews-vectors-negative300 - https://code.google.com/archive/p/word2vec/
+glove.840B.300d - https://nlp.stanford.edu/projects/glove/
+paragram_300_sl999 - https://cogcomp.org/page/resource_view/106
+wiki-news-300d-1M - https://fasttext.cc/docs/en/english-vectors.html
+	•	A very good explanation for different types of embeddings are given in this kernel. Please refer the same for more details.. 
+Glove Embeddings:
+In this section, let us use the Glove embeddings and rebuild the GRU model.
+
+
+###### followup //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://www.kaggle.com/ashishpatel26/nlp-text-analytics-solution-quora
+https://www.kaggle.com/sbongo/do-pretrained-embeddings-give-you-the-extra-edge
+
+
+#####################################################################
+https://www.kaggle.com/anu0012/toxic-comments-classification-using-keras
+https://www.kaggle.com/qqgeogor/keras-lstm-attention-glove840b-lb-0-043#261926
+https://github.com/facebookresearch
+http://tapor.ca/home   Nlp tools listed in one website
+
+
+###############READs ######################################################
+https://distill.pub/2016/augmented-rnns/
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md
+
+#####################################################################
+https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f
+https://nlp.stanford.edu/projects/glove/
+https://github.com/stanfordnlp/GloVe
+https://github.com/tensorflow/fold/blob/master/tensorflow_fold/g3doc/index.md
+https://github.com/mathsyouth/awesome-text-summarization
+https://radimrehurek.com/gensim/tutorial.html gensim
+
+
+#####################################################################
+https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports
+
+https://download.wikimedia.org/enwiki/
+
+https://radimrehurek.com/gensim/wiki.html
+
+https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
+
+https://en.wikipedia.org/wiki/Latent_semantic_analysis
+#############################################
+https://towardsdatascience.com/search?q=nlp
+
+https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+https://towardsdatascience.com/search?q=nlp
+
+https://towardsdatascience.com/text-classification-with-state-of-the-art-nlp-library-flair-b541d7add21f
+
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+https://towardsdatascience.com/attention-models-in-nlp-a-quick-introduction-2593c1fe35eb
+
+https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
+
+https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e
+
+https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164
+
+https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c
+
+https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0
+https://everest.hds.utc.fr/doku.php?id=en:transe
+########################################
+	•	https://www.kaggle.com/shujian/single-rnn-with-4-folds-clr by shujian
+	•	https://www.kaggle.com/sudalairajkumar/a-look-at-different-embeddings by SRK
+	•	https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings by Dieter
+	•	https://www.kaggle.com/shujian/mix-of-nn-models-based-on-meta-embedding by shujian
+	•	https://www.kaggle.com/gmhost/gru-capsule by Puck Wang
+	•	Based on SRK's kernel: https://www.kaggle.com/sudalairajkumar/a-look-at-different-embeddings
+	•	Vladimir Demidov's 2DCNN textClassifier: https://www.kaggle.com/yekenot/2dcnn-textclassifier
+	•	Attention layer from Khoi Ngyuen: https://www.kaggle.com/suicaokhoailang/lstm-attention-baseline-0-652-lb
+	•	LSTM model from Strideradu: https://www.kaggle.com/strideradu/word2vec-and-gensim-go-go-go
+	•	https://www.kaggle.com/danofer/different-embeddings-with-attention-fork
+
+#####################################################################
+https://hackernoon.com/text-summarization-using-keras-models-366b002408d9
+#####################################################################
+https://github.com/huggingface/neuralcoref/
+#####################################################################
+
+https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark
+http://www.statmt.org/lm-benchmark/
+http://www.statmt.org/wmt11/translation-task.html#download
+
+#####################################################################
+
+Reuters-21578 Text Categorization Collection
+http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.tar.gz
+
+
+#####################################################################
+http://ai.stanford.edu/~amaas/data/sentiment/
+
+http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
+This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well. Raw text and already processed bag of words formats are provided. See the README file contained in the release for more details. 
+#####################################################################
+http://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports
+This dataset contains Australian legal cases from the Federal Court of Australia (FCA).
+http://www.austlii.edu.au/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00239/corpus.zip
+#####################################################################
+Project: Translating Embeddings for Modeling Multi-relational Data
+https://everest.hds.utc.fr/doku.php?id=en:transe
+#####################################################################
+https://pro.compliance.ai/content?agency=10000001&agency=11000002&category=Policy+statement&category=Supervisory+statement&category=Policy+Paper&limit=20&order=desc&search_sort=publication_date&summary_id&summary_page=summary
+
+https://datascience.stackexchange.com/questions/2646/extract-most-informative-parts-of-text-from-documents
+
+https://datascience.stackexchange.com/questions/33019/nlp-extract-sentence-parts-related-to-people?rq=1
+
+https://datascience.stackexchange.com/questions/5316/general-approach-to-extract-key-text-from-sentence-nlp?rq=1
+https://datascience.stackexchange.com/questions/2284/is-it-possible-to-identify-different-queries-questions-in-sentence?rq=1
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
+
+
+
+#####################################################################
+Amazon Commerce reviews set Data Set
+http://archive.ics.uci.edu/ml/machine-learning-databases/00215/Amazon_initial_50_30_10000.rar
+
+#####################################################################
+
+http://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set
+This dataset was populated from destination reviews published by 249 reviewers of holidayiq.com till October 2014. Reviews falling in 6 categories among destinations across South India were considered and the count of reviews in each category for every reviewer (traveler) is captured. 
+http://archive.ics.uci.edu/ml/machine-learning-databases/00476/
+
+#####################################################################
+http://archive.ics.uci.edu/ml/machine-learning-databases/00233/
+CNAE-9 Data Set
+This is a data set containing 1080 documents of free text business descriptions of Brazilian companies categorized into a 
+subset of 9 categories cataloged in a table called National Classification of Economic Activities (ClassificaÃ§Ã£o Nacional de 
+Atividade EconÃ´micas - CNAE). The original texts were pre-processed to obtain the current data set: initially, it was kept only 
+letters and then it was removed prepositions of the texts. Next, the words were transformed to their canonical form. Finally, 
+each document was represented as a vector, where the weight of each word is its frequency in the document. This data set is 
+highly sparse (99.22% of the matrix is filled with zeros).
+
+#####################################################################
+http://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails
+http://archive.ics.uci.edu/ml/machine-learning-databases/00219/
+I collected 64 e-mails from DBWorld newsletter and I used them to train different algorithms in order to classify between 'announces of conferences' and 'everything else'. I used a binary bag-of-words representation with a stopword removal pre-processing task before.
+
+#####################################################################
+http://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Labels
+DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels Data Set 
+
+
+#####################################################################
+KDC-4007 dataset Collection Data Set
+http://archive.ics.uci.edu/ml/datasets/KDC-4007+dataset+Collection
+http://archive.ics.uci.edu/ml/machine-learning-databases/00376/
+The most important feature of this dataset is its simplicity to use and its being well-documented, which can be widely used in various studies of text analysis regarding Kurdish Sorani news and articles.  The documents consist of eight categories, which are Sport, Religion, Art, Economic, Education, Social, Style, and Health. Each of them consisted of 500 text documents, where the total size of the corpus is 4,007 text files.  The dataset and documents have become freely accessible in order to have repeatable outcomes for experimental assessment.  
+
+#####################################################################
+https://trec.nist.gov/data/reuters/reuters.html
+
+#####################################################################
+http://www.cs.cornell.edu/people/pabo/movie-review-data/
+http://www.cs.cornell.edu/people/pabo/movie-review-data/otherexperiments.html
+
+polarity dataset v2.0 ( 3.0Mb) (includes README v2.0): 1000 positive and 1000 negative processed reviews. Introduced in Pang/Lee ACL 2004. Released June 2004. 
+Pool of 27886 unprocessed html files (81.1Mb) from which the polarity dataset v2.0 was derived. (This file is identical to movie.zip from data release v1.0.) 
+sentence polarity dataset v1.0 (includes sentence polarity dataset README v1.0: 5331 positive and 5331 negative processed sentences / snippets. Introduced in Pang/Lee ACL 2005. Released July 2005. 
+
+
+	•	scale dataset v1.0 (includes scale data README v1.0): a collection of documents whose labels come from a rating scale. Introduced in Pang/Lee ACL 2005. Released July 2005.
+	◦	Sep 30, 2009: Yanir Seroussi points out that due to some misformatting in the raw html files, six reviews are misattributed to Dennis Schwartz (29411 should be Max Messier, 29412 should be Norm Schrager, 29418 should be Steve Rhodes, 29419 should be Blake French, 29420 should be Pete Croatto, 29422 should be Rachel Gordon) and one (23982) is blank.
+	•	original reviews for scale dataset v1.0 (includes scale data README v1.0): original reviews from which the subjective extracts in scale dataset v1.0 were extracted. 
+
+	•	subjectivity dataset v1.0 (508K) (includes subjectivity README v1.0): 5000 subjective and 5000 objective processed sentences. Introduced in Pang/Lee ACL 2004. Released June 2004.
+	•	Pool of unprocessed source documents (9.3Mb) from which the sentences in the subjectivity dataset v1.0 were extracted. Note: On April 2, 2012, we replaced the original gzipped tarball with one in which the subjective files are now in the correct directory (so that the subjectivity directory is no longer empty; the subjective files were mistakenly placed in the wrong directory, although distinguishable by their different naming scheme). 
+
+#####################################################################
+http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+
+#####################################################################
+https://nlp.stanford.edu/sentiment/code.html
+
+#####################################################################
+http://help.sentiment140.com/for-students/
+
+#####################################################################
+http://alt.qcri.org/semeval2014/task1/index.php?id=data-and-tools
+http://alt.qcri.org/farasa/
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+
+#####################################################################
+
+

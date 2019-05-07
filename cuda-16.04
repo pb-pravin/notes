@@ -1,0 +1,95 @@
+https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/
+cuda-repo-ubuntu1604_10.1.105-1_amd64.deb  7fa2af80.pub
+
+########
+https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#ubuntu-installation
+gcc --version
+uname -m && cat /etc/*release
+sudo apt-get install linux-headers-$(uname -r)
+
+########
+sudo apt-key add  7fa2af80.pub 
+sudo dpkg -i cuda-repo-ubuntu1604_10.1.105-1_amd64.deb 
+sudo apt-get -o Acquire::ForceIPv4=true update
+sudo apt-get -o Acquire::ForceIPv4=true upgrade
+sudo reboot 
+sudo apt-get -o Acquire::ForceIPv4=true install cuda
+########
+
+###########
+https://www.techrepublic.com/article/how-to-disable-ipv6-on-linux/
+sudo vi /etc/sysctl.conf
+net.ipv6.conf.all.disable_ipv6 = 1
+net.ipv6.conf.default.disable_ipv6 = 1
+net.ipv6.conf.lo.disable_ipv6 = 1
+################
+Disable IPv6 in APT
+
+Sometimes, you need to disable IPv6 in the APT package manage only and other program can continue use IPv6 if needed. To disable IPv6 in APT, run the following command to create a configuration file for APT.
+
+sudo vi /etc/apt/apt.conf.d/99force-ipv4
+Acquire::ForceIPv4 "true";
+
+
+#########
+https://www.linuxbabe.com/desktop-linux/4-epub-reader-to-view-epub-files-on-ubuntu-16-0414-04
+#epub reader
+sudo apt-get install fbreader
+sudo apt install chromium-browser
+sudo apt install codeblocks 
+
+./Anaconda3-2019.03-Linux-x86_64.sh 
+conda
+conda create p27 python=2.7
+conda create -n p27 python=2.7
+conda create -n p36 python=3.6
+conda create -n p37 python=3.7.3
+ 
+#####
+https://medium.com/@katnoria.ashish/installing-tensorflow-2-0-nightly-and-cuda-10-0-on-ubuntu-18-04-e880db22d2ee
+conda create -n tf2 pip python=3.6
+conda activate tf2
+pip install tf-nightly-gpu-2.0-preview
+python -c "import tensorflow; print(tensorflow.__version__)"
+#####
+conda create -n pytorch1 pip python=3.6
+conda activate pytorch1
+conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
+
+ 
+
+
+
+
+
+#########
+sudo apt-get install linux-headers-$(uname -r)
+#############
+https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#ubuntu-installation
+3.6. Ubuntu
+
+    Perform the pre-installation actions.
+    Install repository meta-data
+
+    $ sudo dpkg -i cuda-repo-<distro>_<version>_<architecture>.deb
+
+    Installing the CUDA public GPG key
+
+    When installing using the local repo:
+
+    $ sudo apt-key add /var/cuda-repo-<version>/7fa2af80.pub
+
+    When installing using network repo on Ubuntu 18.04/18.10:
+
+    $ sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/<distro>/<architecture>/7fa2af80.pub
+
+    When installing using network repo on Ubuntu 16.04:
+
+    $ sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/<distro>/<architecture>/7fa2af80.pub
+
+    Update the Apt repository cache
+
+    $ sudo apt-get update
+
+    Install CUDA
+
